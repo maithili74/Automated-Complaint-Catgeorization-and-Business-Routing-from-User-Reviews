@@ -14,7 +14,7 @@ This project analyzes user reviews from the Google Play Store to automatically i
 ## Key Features
 - Topic Clustering with BERTopic: Identified top 5 complaint categories covering 91.3% of total reviews.
 -Sentiment Analysis: Flagged issues like "Notification Bugs" with 83%+ negative sentiment, guiding prioritization.
-- Routing Simulation: Automatically assigned 100% of complaints to relevant teams, improving triage.
+- Routing Simulation: Automatically assigned 100% of complaints to relevant teams.
 - Time Savings Estimation: Automated analysis simulated 30+ hours of manual review saved.
 
 ## Outcome
