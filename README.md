@@ -1,4 +1,4 @@
-# Automated Complaint Catgeorization and Business Routing from User Reviews
+# Automated Complaint Categorization and Business Routing from User Reviews
 
 Overview
 
